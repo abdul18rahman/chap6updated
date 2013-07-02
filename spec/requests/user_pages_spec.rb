@@ -119,7 +119,7 @@ describe "signup page" do
 
 		fill_in "Password", with: "foobar"
 
-		fill_in "Confirmation", with: "foobar"
+		fill_in "Confirm Password", with: "foobar"
 	end
 
 
